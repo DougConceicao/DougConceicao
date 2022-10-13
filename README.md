@@ -1,6 +1,6 @@
 ## Prazer, sou Douglas Conceição!
 - 🔭 Atualmente estou trabalhando como Projetista.<br>
-- 🌱 Estudante de Engenharia de Software e outras Tecnologias nas plataformas Alura e Udemy.<br>
+- 🌱 Estudante de Engenharia de Software e outras Tecnologias nas plataformas EAD Alura e Udemy.<br>
 - 🚀 Buscando oportunidade de uma nova recolocação na área de Tecnologia e Desenvolvimento.
 
 <strong>Profissional exemplar, auto comprometimento, boa comunicação e trabalho em equipe.</strong>
